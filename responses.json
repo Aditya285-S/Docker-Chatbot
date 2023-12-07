@@ -1,0 +1,136 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey ",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, and Paypal",
+        "We accept most major credit cards and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "admissions",
+      "patterns": [
+        "How can I apply for admission?",
+        "Tell me about the admission process",
+        "What are the admission requirements?"
+      ],
+      "responses": [
+        "To apply for admission, visit our official admissions page on the college website.",
+        "The admission process involves submitting an online application and required documents. Check our website for details.",
+        "Admission requirements vary by program. You can find detailed information on our website or contact the admissions office."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses do you offer?",
+        "Tell me about your academic programs",
+        "Can you list the available courses?"
+      ],
+      "responses": [
+        "We offer a variety of undergraduate and graduate programs. Explore our website for a complete list of courses.",
+        "Our academic programs cover diverse fields such as arts, sciences, business, and more. Visit our website for detailed information.",
+        "To view the full list of available courses, navigate to the 'Courses' section on our college website."
+      ]
+    },
+    {
+      "tag": "schedule",
+      "patterns": [
+        "What is the class schedule?",
+        "Tell me about the academic calendar",
+        "When does the semester start?"
+      ],
+      "responses": [
+        "The class schedule is available on the college portal. Log in to view your personalized schedule.",
+        "Our academic calendar includes important dates such as semester start and end dates, holidays, and exams. Check the calendar on our website for details.",
+        "The semester typically starts in [Month]. Refer to the academic calendar for specific dates and events."
+      ]
+    },
+    {
+      "tag": "financial_aid",
+      "patterns": [
+        "How can I apply for financial aid?",
+        "Tell me about scholarship opportunities",
+        "What financial aid options are available?"
+      ],
+      "responses": [
+        "To apply for financial aid, complete the Free Application for Federal Student Aid (FAFSA) on the official FAFSA website.",
+        "Explore our scholarship programs on the college website. We offer a range of scholarships based on academic achievements, talents, and more.",
+        "Our financial aid office can provide information on available options, grants, and assistance programs. Contact them for personalized support."
+      ]
+    }
+  ]
+}
