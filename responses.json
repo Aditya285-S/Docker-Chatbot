@@ -39,9 +39,9 @@
         "Can you list the available services at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "Techno Ticket Booking Agency provides a range of services, including flight, train, bus, and event ticket bookings. Check our app for details.",
-        "Explore the Techno Ticket Booking Agency app for information on our services, which include flight, train, bus, and event ticket bookings.",
-        "To view the full list of available services at Techno Ticket Booking Agency, download our app from the respective app store."
+        "Techno Ticket Booking Agency provides a range of services, including flight, train, bus, and event ticket bookings. To get started, please provide your starting point and destination. Check our app for details.",
+        "Explore the Techno Ticket Booking Agency app for information on our services, which include flight, train, bus, and event ticket bookings. Let's start by entering your starting point and destination.",
+        "To view the full list of available services at Techno Ticket Booking Agency and book your tickets, download our app from the respective app store. Please enter your starting point and destination to begin."
       ]
     },
     {
@@ -52,9 +52,9 @@
         "What are the booking options at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "To make a ticket booking with Techno Ticket Booking Agency, download our app from the respective app store and follow the simple booking process.",
-        "The ticket booking process at Techno Ticket Booking Agency is easy. Download our app, choose your travel or event details, and follow the prompts to complete your booking.",
-        "For booking options and availability at Techno Ticket Booking Agency, download our app or visit our website. We're here to make your ticket booking convenient!"
+        "To make a ticket booking with Techno Ticket Booking Agency, download our app from the respective app store, and provide your starting point and destination. Follow the simple booking process to complete your reservation.",
+        "The ticket booking process at Techno Ticket Booking Agency is easy. Download our app, enter your starting point and destination, choose your travel or event details, and follow the prompts to complete your booking.",
+        "For booking options and availability at Techno Ticket Booking Agency, download our app, and enter your starting point and destination. We're here to make your ticket booking convenient!"
       ]
     },
     {
@@ -65,9 +65,9 @@
         "Can you describe the different ticket types at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "Techno Ticket Booking Agency offers a variety of ticket types, including flights, trains, buses, and event tickets. Explore our app for detailed information on each.",
-        "Our ticket options at Techno Ticket Booking Agency range from flights and trains to buses and events. Download our app to view the ticket types and choose the ones that suit your preferences.",
-        "To see the different ticket types and their features at Techno Ticket Booking Agency, navigate through our app or visit our website."
+        "Techno Ticket Booking Agency offers a variety of ticket types, including flights, trains, buses, and event tickets. To see available options for your starting point and destination, please enter the details in our app.",
+        "Our ticket options at Techno Ticket Booking Agency range from flights and trains to buses and events. Download our app to view the ticket types and choose the ones that suit your preferences. Enter your starting point and destination to get started.",
+        "To see the different ticket types and their features at Techno Ticket Booking Agency for your specific starting point and destination, navigate through our app or visit our website."
       ]
     },
     {
@@ -78,9 +78,9 @@
         "What payment methods are accepted?"
       ],
       "responses": [
-        "To make a payment for your ticket booking at Techno Ticket Booking Agency, you can use various secure payment methods within our app.",
-        "Techno Ticket Booking Agency accepts a variety of payment options. When booking through our app, you can choose from several secure payment methods.",
-        "For information on accepted payment methods at Techno Ticket Booking Agency, check our app or contact our support team. We strive to make your payment process smooth and secure."
+        "To make a payment for your ticket booking at Techno Ticket Booking Agency, you can use various secure payment methods within our app. Enter your starting point and destination, choose your tickets, and proceed to payment.",
+        "Techno Ticket Booking Agency accepts a variety of payment options. When booking through our app, you can choose from several secure payment methods. Simply enter your starting point and destination, select your tickets, and proceed to payment.",
+        "For information on accepted payment methods at Techno Ticket Booking Agency, check our app or contact our support team. We strive to make your payment process smooth and secure. Don't forget to enter your starting point and destination!"
       ]
     },
     {
@@ -91,9 +91,9 @@
         "Do you welcome user feedback at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "We value user feedback at Techno Ticket Booking Agency! You can share your thoughts through our app or contact our support team. Your input helps us enhance our services.",
-        "User feedback is important to us at Techno Ticket Booking Agency. You can submit your comments and suggestions through our app or by reaching out to our support team.",
-        "We appreciate user feedback at Techno Ticket Booking Agency. Feel free to share your thoughts through our app or contact our support team. Your opinion matters!"
+        "We value user feedback at Techno Ticket Booking Agency! Share your thoughts through our app or contact our support team. Your input helps us enhance our services. Don't forget to mention your starting point and destination in your feedback!",
+        "User feedback is important to us at Techno Ticket Booking Agency. Submit your comments and suggestions through our app or by reaching out to our support team. Please include your starting point and destination for context.",
+        "We appreciate user feedback at Techno Ticket Booking Agency. Feel free to share your thoughts through our app or contact our support team. When providing feedback, mentioning your starting point and destination helps us understand your experience better!"
       ]
     }
   ]
