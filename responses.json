@@ -4,132 +4,96 @@
       "tag": "greeting",
       "patterns": [
         "Hi",
-        "Hey",
-        "How are you",
-        "Is anyone there?",
         "Hello",
-        "Good day"
+        "Greetings",
+        "Good day",
+        "Welcome to Techno Ticket Booking Agency",
+        "Is anyone there?"
       ],
       "responses": [
-        "Hey ",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hello! Welcome to Techno Ticket Booking Agency.",
+        "Hi there, how can I assist you at Techno Ticket Booking Agency?",
+        "Welcome to Techno Ticket Booking Agency! How may I help you today?",
+        "Good day! How can we make your ticket booking experience enjoyable at Techno Ticket Booking Agency?"
       ]
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye"],
+      "patterns": ["Goodbye", "See you later", "Farewell"],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
+        "Goodbye! Have a great day and come back to Techno Ticket Booking Agency soon.",
+        "See you later, and thank you for choosing Techno Ticket Booking Agency.",
+        "Farewell! We look forward to assisting you again at Techno Ticket Booking Agency."
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "patterns": ["Thanks", "Thank you", "Appreciate it", "Thanks a lot!"],
+      "responses": ["You're welcome at Techno Ticket Booking Agency!", "Glad to assist at Techno Ticket Booking Agency!", "Anytime at Techno Ticket Booking Agency!"]
     },
     {
-      "tag": "items",
+      "tag": "services",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Tell me about Techno Ticket Booking Agency services",
+        "What ticket booking services does Techno Ticket Booking Agency offer?",
+        "Can you list the available services at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Techno Ticket Booking Agency provides a range of services, including flight, train, bus, and event ticket bookings. Check our app for details.",
+        "Explore the Techno Ticket Booking Agency app for information on our services, which include flight, train, bus, and event ticket bookings.",
+        "To view the full list of available services at Techno Ticket Booking Agency, download our app from the respective app store."
       ]
     },
     {
-      "tag": "payments",
+      "tag": "booking_process",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "How can I make a ticket booking with Techno Ticket Booking Agency?",
+        "Tell me about the ticket booking process at Techno Ticket Booking Agency",
+        "What are the booking options at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "We accept VISA, Mastercard, and Paypal",
-        "We accept most major credit cards and Paypal"
+        "To make a ticket booking with Techno Ticket Booking Agency, download our app from the respective app store and follow the simple booking process.",
+        "The ticket booking process at Techno Ticket Booking Agency is easy. Download our app, choose your travel or event details, and follow the prompts to complete your booking.",
+        "For booking options and availability at Techno Ticket Booking Agency, download our app or visit our website. We're here to make your ticket booking convenient!"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "ticket_types",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "What types of tickets does Techno Ticket Booking Agency offer?",
+        "Tell me about Techno Ticket Booking Agency ticket options",
+        "Can you describe the different ticket types at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Techno Ticket Booking Agency offers a variety of ticket types, including flights, trains, buses, and event tickets. Explore our app for detailed information on each.",
+        "Our ticket options at Techno Ticket Booking Agency range from flights and trains to buses and events. Download our app to view the ticket types and choose the ones that suit your preferences.",
+        "To see the different ticket types and their features at Techno Ticket Booking Agency, navigate through our app or visit our website."
       ]
     },
     {
-      "tag": "funny",
+      "tag": "payment",
       "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
+        "How can I make a payment for my ticket booking?",
+        "Tell me about the payment options at Techno Ticket Booking Agency",
+        "What payment methods are accepted?"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "To make a payment for your ticket booking at Techno Ticket Booking Agency, you can use various secure payment methods within our app.",
+        "Techno Ticket Booking Agency accepts a variety of payment options. When booking through our app, you can choose from several secure payment methods.",
+        "For information on accepted payment methods at Techno Ticket Booking Agency, check our app or contact our support team. We strive to make your payment process smooth and secure."
       ]
     },
     {
-      "tag": "admissions",
+      "tag": "feedback",
       "patterns": [
-        "How can I apply for admission?",
-        "Tell me about the admission process",
-        "What are the admission requirements?"
+        "How can I provide feedback about Techno Ticket Booking Agency?",
+        "Tell me about Techno Ticket Booking Agency feedback process",
+        "Do you welcome user feedback at Techno Ticket Booking Agency?"
       ],
       "responses": [
-        "To apply for admission, visit our official admissions page on the college website.",
-        "The admission process involves submitting an online application and required documents. Check our website for details.",
-        "Admission requirements vary by program. You can find detailed information on our website or contact the admissions office."
-      ]
-    },
-    {
-      "tag": "courses",
-      "patterns": [
-        "What courses do you offer?",
-        "Tell me about your academic programs",
-        "Can you list the available courses?"
-      ],
-      "responses": [
-        "We offer a variety of undergraduate and graduate programs. Explore our website for a complete list of courses.",
-        "Our academic programs cover diverse fields such as arts, sciences, business, and more. Visit our website for detailed information.",
-        "To view the full list of available courses, navigate to the 'Courses' section on our college website."
-      ]
-    },
-    {
-      "tag": "schedule",
-      "patterns": [
-        "What is the class schedule?",
-        "Tell me about the academic calendar",
-        "When does the semester start?"
-      ],
-      "responses": [
-        "The class schedule is available on the college portal. Log in to view your personalized schedule.",
-        "Our academic calendar includes important dates such as semester start and end dates, holidays, and exams. Check the calendar on our website for details.",
-        "The semester typically starts in [Month]. Refer to the academic calendar for specific dates and events."
-      ]
-    },
-    {
-      "tag": "financial_aid",
-      "patterns": [
-        "How can I apply for financial aid?",
-        "Tell me about scholarship opportunities",
-        "What financial aid options are available?"
-      ],
-      "responses": [
-        "To apply for financial aid, complete the Free Application for Federal Student Aid (FAFSA) on the official FAFSA website.",
-        "Explore our scholarship programs on the college website. We offer a range of scholarships based on academic achievements, talents, and more.",
-        "Our financial aid office can provide information on available options, grants, and assistance programs. Contact them for personalized support."
+        "We value user feedback at Techno Ticket Booking Agency! You can share your thoughts through our app or contact our support team. Your input helps us enhance our services.",
+        "User feedback is important to us at Techno Ticket Booking Agency. You can submit your comments and suggestions through our app or by reaching out to our support team.",
+        "We appreciate user feedback at Techno Ticket Booking Agency. Feel free to share your thoughts through our app or contact our support team. Your opinion matters!"
       ]
     }
   ]
