@@ -7,7 +7,7 @@
 The interactive chatbot is a sophisticated conversational agent designed for seamless communication. Its source code is stored in a GitHub repository, allowing for version control and collaborative development. To deploy the chatbot on an AWS EC2 instance, the user clones the repository to the instance using Git Bash terminal on an Ubuntu operating system. Leveraging Docker, the user creates a container image encapsulating the chatbot's files and dependencies, ensuring portability and reproducibility. The Docker container is then launched on the EC2 instance, with communication facilitated through a specified port address, enabling users to interact with the chatbot in a scalable and efficient manner.
 
 
-## Prerequisites
+## Requirements
 AWS account with an EC2 instance\
 SSH key pair for accessing the EC2 instance
 
